@@ -1,1 +1,3 @@
-# stribrava-zadani
+# Hotel Stříbrava
+
+Materiály od zákazníka
